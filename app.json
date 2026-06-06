@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Green Themed Design",
+    "slug": "green-themed-design",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.yeenatweg.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#2E5E4E"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "66949859-c0ed-4b7e-a755-e31e9dd57024"
+      }
+    }
+  }
+}
