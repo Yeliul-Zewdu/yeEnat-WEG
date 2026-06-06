@@ -19,6 +19,8 @@ This repository contains the **mobile/web client** (Expo / React Native) wired t
 | API base | `https://enateweg.onrender.com/v1` |
 | API Documentation | `https://enateweg.onrender.com/v1/docs` |
 
+| Backend Repo | `https://github.com/Simon-Geletaw/EnateWeg` |
+
 ---
 
 ## Project structure
