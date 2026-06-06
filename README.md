@@ -18,7 +18,6 @@ This repository contains the **mobile/web client** (Expo / React Native) wired t
 | Backend | Node.js, Express 5, PostgreSQL, JWT auth, Google Gemini (meal-plan generation) |
 | API base | `https://enateweg.onrender.com/v1` |
 | API Documentation | `https://enateweg.onrender.com/v1/docs` |
-
 | Backend Repo | `https://github.com/Simon-Geletaw/EnateWeg` |
 
 ---
